@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Chrono/Scene/Atom/ATOM01.SplashScreen.Publisher.unity
+    guid: 5bbddb13d2eb8924498fdfbac3e90624
+  - enabled: 1
+    path: Assets/Chrono/Scene/Atom/ATOM02.SplashScreen.Developer.unity
+    guid: d541bafad96de1e489dc317e71a40365
+  - enabled: 1
+    path: Assets/Chrono/Scene/Atom/ATOM03.SwitchScreen.MainMenu.unity
+    guid: 95b5c6a85c99305458ae017392243029
+  - enabled: 1
+    path: Assets/Chrono/Scene/Atom/ATOM04.Default.MainMenu.unity
+    guid: 92a5186d7f9ced64e93fafebb35913dd
+  - enabled: 1
+    path: Assets/Chrono/Scene/Atom/ATOM05.HighScore.Data.unity
+    guid: 3b4e34d3e6e3cac4d8d46c1b9904a40e
+  - enabled: 1
+    path: Assets/Chrono/Scene/Atom/ATOM06.SelectLevel.Cluster.unity
+    guid: db80d0361063f4343a0e78dc0d485aff
+  - enabled: 1
+    path: Assets/Chrono/Scene/Atom/ATOM07.CurrentLevel.Scene.unity
+    guid: 65605975451e9de46aa3689d4d06566a
+  - enabled: 1
+    path: Assets/Zetcil/Controller/Game Controller/Loading/Scene/ZetLoadingScreen.unity
+    guid: f76ec0fd530892747a9f77a5aeed0da3
+  - enabled: 1
+    path: Assets/Chrono/Scene/Expo/EX03.Create.Character.unity
+    guid: c2f96aa7763b04145986c06f67f2be6c
+  - enabled: 1
+    path: Assets/Chrono/Scene/Expo/EX04.Play.unity
+    guid: 8e3faff523d1a9344bf3e3264a90ab45
+  - enabled: 1
+    path: Assets/Chrono/Scene/Chrono/CR01.MainMenu.unity
+    guid: d3af3b918b653104ebe6dafe1cdc1e80
+  - enabled: 1
+    path: Assets/Chrono/Scene/Chrono/CR02.LevelSelection.A.unity
+    guid: 401f3bdac5934b5459c3cd3472c44b63
+  - enabled: 1
+    path: Assets/Chrono/Scene/Chrono/CR02.LevelSelection.B.unity
+    guid: 36c76413b94969b4f8115427b50017ef
+  - enabled: 1
+    path: Assets/Chrono/Scene/Chrono/CR02.LevelSelection.C.unity
+    guid: 09a038c91f80ee946bf0e7eb09fbdf6a
+  - enabled: 1
+    path: Assets/Chrono/Scene/Chrono/CR03.Chronolizer.A.unity
+    guid: 68b14c13fd947464dbac861f9151b819
+  - enabled: 1
+    path: Assets/Chrono/Scene/Minio/MN01.MainMenu.unity
+    guid: 485cb8ebba027b441bb683f39dd41ccd
+  - enabled: 1
+    path: Assets/Chrono/Scene/Proto/PR01.MainMenu.unity
+    guid: c7c3e99ed0da7b74c8082dc08fe745d9
+  - enabled: 1
+    path: Assets/Chrono/Scene/Specio/SP01.MainMenu.unity
+    guid: cc406fb263100e1448ec127d24092fb4
+  - enabled: 1
+    path: Assets/Chrono/Scene/Tactio/TC01.MainMenu.unity
+    guid: 6d8ae7a6575ebf040b977bd0e5988d48
+  - enabled: 1
+    path: Assets/Chrono/Scene/Virtuo/VR01.MainMenu.unity
+    guid: d17c83476d628b74dba811cca15c19ba
+  m_configObjects: {}
